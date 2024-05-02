@@ -1,0 +1,42 @@
+.orange-bg{
+    background-color: #fceae8 ;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.container{
+    margin-bottom:  70px; 
+}
+.cat1 , .cat2 , .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(lightsalmon, tomato); 
+}
+.cat2{
+    background-image: linear-gradient( #ff136f, #eb4b88); 
+}
+.cat3{
+    background-image: linear-gradient( rgb(0, 81, 255),  rgb(85, 130, 226) );
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#submit{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
